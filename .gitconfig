@@ -1,4 +1,4 @@
-[user[
+[user]
 
 [alias]
     a = commit --amend
