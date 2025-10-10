@@ -2,6 +2,7 @@
 
 
 autoDocstrings
+Better Jinja
 Code Runner
 CodeLLDB
 Dependi
