@@ -3,6 +3,7 @@
 
 autoDocstrings
 Better Jinja
+DBT
 Code Runner
 CodeLLDB
 Dependi
@@ -13,6 +14,7 @@ Excel Viewer
 GitHub Actions
 GitHub Copilot
 GitHub Copilot Chat
+Hashicorp terraform
 indent-raindow
 IntelliCode
 JavaScript code snippets
@@ -26,11 +28,13 @@ Jupyter Slide Show
 Live preview
 Material Icon Theme
 Night Owl
+Power User for dbt
 Prettier
 Python (and all associated packages)
 Python indent
 Raindown CSV
 Ruff
 rust-analyzer
+Terraform
 TODO Highlight
 Todo Tree
