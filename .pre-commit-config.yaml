@@ -9,6 +9,16 @@ repos:
         language: system
         pass_filename: false
         args: [autoupdate]
+      - id: pyright
+        name: pyright
+        entry: pyright
+        language: system
+        types: [python]
+      - id: prettier
+        name: prettier
+        entry: npx prettier --write
+        language: system
+        types_or: [javascript, jsx, ts, tsx, css, scss, json, yaml, markdown, html]
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v5.0.0
     hooks:
