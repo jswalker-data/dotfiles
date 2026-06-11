@@ -1,4 +1,4 @@
-exclude: .idea|.git|.vscode|.venv
+exclude: .idea|.git|.vscode|.venv|.gitignore
 default_stages: [pre-commit, pre-push]
 repos:
   - repo: local
